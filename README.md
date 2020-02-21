@@ -6,7 +6,7 @@
     <td><a href="https://www.github.com/furkankayar/"><strong>F</strong>urkan Kayar</a></td>
   </tr>
   <tr>
-    <td><a href=""><strong>E</strong>ce Kobanç</a></td>
+    <td><a href="https://github.com/ecekobanc"><strong>E</strong>ce Kobanç</a></td>
   </tr>
   <tr>
     <td><a href="https://www.github.com/burcuolmez/"><strong>B</strong>urcu Ölmez</a></td>
